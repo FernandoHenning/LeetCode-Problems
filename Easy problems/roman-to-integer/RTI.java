@@ -1,6 +1,6 @@
 import java.util.Map;
 
-class Main{
+class RTI{
     static Map<Character, Integer> romanNumerals = Map.of(
         'I',1,
         'V',5,
@@ -32,4 +32,4 @@ class Main{
         }
         return output;
     }
-};
+}
