@@ -18,7 +18,7 @@ class MTSL {
         if(list1 != null && list2 == null){
             return list1;
         }
-        if(list2 !=null && list1 == null){
+        if(list1 == null){
             return list2;
         }
 
